@@ -24,7 +24,7 @@ datasciencedojo 的 titanic.csv（https://raw.githubusercontent.com/datascienced
 
 ## 文件说明
 
-- `upload.py`：数据清洗，输出 titanic_clean.csv
+- `泰坦尼克数据清洗.py`：数据清洗，输出 titanic_clean.csv
 - `eda_plot.py`：分组分析与画图
 - `Survived_by_gender.png`：不同性别的存活率对比
 - `Survived_by_embarked.png`：不同登船港的存活率对比
